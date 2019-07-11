@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\bin\Debug\serialPortsYT.exe.config
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\bin\Debug\serialPortsYT.exe
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\bin\Debug\serialPortsYT.pdb
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.Form1.resources
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.exe
+C:\Users\Mustafa\source\repos\serialPortsYT\serialPortsYT\obj\Debug\serialPortsYT.pdb
